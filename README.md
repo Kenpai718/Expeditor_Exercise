@@ -19,5 +19,6 @@ Each First Name, Last Name, Address and Age sorted by Last Name then First Name 
 
 
 DEVELOPER NOTE:
-*by default the program parses the data from input.txt but a different file path can be passed to main in args[0]
-*My main approach was making person objects with the input data and using stream api to format the output
+1) Codebase can be found in src
+2) by default the program parses the data from input.txt but a different file path can be passed to main in args[0]
+3) My main approach was making person objects with the input data and using stream api to format the output
